@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheriHW", "InheriHW\InheriHW.csproj", "{F53DCCC8-75E1-4030-988E-1596EC47AEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53DCCC8-75E1-4030-988E-1596EC47AEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53DCCC8-75E1-4030-988E-1596EC47AEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53DCCC8-75E1-4030-988E-1596EC47AEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53DCCC8-75E1-4030-988E-1596EC47AEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9049965-60E9-4840-9C86-2F9317BE707A}
+	EndGlobalSection
+EndGlobal
